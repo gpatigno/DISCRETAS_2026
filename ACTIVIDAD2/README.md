@@ -10,6 +10,8 @@
 ### 6. (10%) Ejecute el código para diferentes tamaños del Triángulo.
 ### 7. (10%) Según el artículo y la ejecución del código fuente, ¿de qué orden es la complejidad computacional de este algoritmo? Explique y justifique su respuesta analizando diferentes ejecuciones de su código.
 ### 8. (20%) Observando el patrón de enumeración incluido en los diferentes triángulos dibujados, agregue una explicación complementaria a lo dicho en el artículo, sobre el proceso de construcción de los diferentes triángulos.
-### 9. Finalmente, agregue su nombre y el de sus compañeros, y envie su código fuente (completo y documentado) al formulario de Google compartido en clase.
+### 9. Finalmente, agregue su nombre y el de sus compañeros, y envie su código fuente (completo y documentado) al siguiente formulario de Google:
+
+### https://forms.gle/m2scqK5TWJqBNohn8
 
 #
