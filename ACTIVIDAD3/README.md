@@ -28,13 +28,13 @@
 #### Para la realización de la presente actividad, considere el siguiente listado de archivos pdf, así como la firma digital asociada a cada archivo:
 
 [Documento 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/CartaOficial.pdf)
-- Firma: 82464
+- **Firma: 82464**
 
 [Documento 2](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/CartaRecomendacion.pdf)
-- Firma: 92683
+- **Firma: 92683**
 
 [Documento 3](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/EPM_capitan.pdf)
-- Firma: 31011
+- **Firma: 31011**
 
 
 ### Clave Pública según el cifrado RSA:
