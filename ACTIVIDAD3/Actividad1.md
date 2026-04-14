@@ -8,6 +8,7 @@
 - Para cada archivo PDF:
     + Lea el archivo.
     + Calcule el hash SHA-256.
+    +  Complete las columnas 1 y 2 de la [Tabla 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md) compartida.
 
 ******
 
@@ -22,4 +23,6 @@ with open("archivo.pdf", "rb") as f:
 hash_val = hashlib.sha256(data).hexdigest()
 print(hash_val)
 ```
+
+
 *****
