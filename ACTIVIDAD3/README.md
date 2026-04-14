@@ -28,23 +28,20 @@
 #### Para la realización de la presente actividad, considere el siguiente listado de archivos pdf, así como la firma digital asociada a cada archivo:
 
 [Documento 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/CartaOficial.pdf)
-- Firma: 
+- Firma: 82464
 
 [Documento 2](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/CartaRecomendacion.pdf)
-- Firma: 
+- Firma: 92683
 
 [Documento 3](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/EPM_capitan.pdf)
-- Firma: 
-
-[Documento 4](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/CartaEstudiante.pdf)
-- Firma: 
+- Firma: 31011
 
 
 ### Clave Pública según el cifrado RSA:
 
 #### Para la validación matemática requerida en esta actividad y basada en el cifrado RSA, utilice la siguiente clave pública:
-- n = 3233
-- e = 17
+- **n** = 176837
+- **e** = 17
 
 ****
 

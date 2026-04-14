@@ -1,5 +1,5 @@
 
-# **Actividad 2**: Verificación de firma
+# **Ejercicio 2**: Verificación de firma
 
 ### **Objetivo:**
 - Determinar la autencidad de la firma de diferentes documentos.
@@ -21,6 +21,12 @@
         `m_verificado == m`
 
     5. La firma compartida es entonces válida? **Explique**.
-    6. Complete las columnas 3, 4 y 5 de la [Tabla 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md) compartida.
+    6. Complete las columnas 3, 4 y 5 de la [Tabla 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md).
+
+
+### **Preguntas:**
+- ¿Por qué falla la verificación?
+- ¿Qué propiedad criptográfica se evidencia?
+
 
 ****
