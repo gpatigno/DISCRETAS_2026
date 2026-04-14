@@ -45,5 +45,18 @@
 
 ****
 
+# **Formulario de entrega de esta Actividad**
+
+### En el siguiente enlace se encuentra el Formulario de Google para hacer entrega de los elementos indicados a continuación:
+
+https://forms.gle/sBv4syJV2nSDCKRQ9
+
+- COLAB del código fuente desarrollado en la presente actividad.
+- Archivo PDF de la [Tabla 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md) diligenciada.
+- Respuesta a las preguntas indicadas en cada ejercicio.
+
+
+
+
 
 
