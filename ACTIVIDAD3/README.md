@@ -1,4 +1,6 @@
 
+![alt text](image.png)
+
 # **Actividad de Clase**
 ## Verificación de Documentos con Firma Digital RSA
 
@@ -54,6 +56,9 @@ https://forms.gle/sBv4syJV2nSDCKRQ9
 - COLAB del código fuente desarrollado en la presente actividad.
 - Archivo PDF de la [Tabla 1](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md) diligenciada.
 - Respuesta a las preguntas indicadas en cada ejercicio.
+
+
+
 
 
 
