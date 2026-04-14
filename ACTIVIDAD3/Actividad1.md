@@ -2,12 +2,12 @@
 # **Actividad 1**: Cálculo de Hash
 
 ### **Objetivo:**
-- Identificar la huella digital única de cada documento
+- Identificar la huella digital única de cada documento.
 
 ### **Instrucciones:**
 - Para cada archivo PDF:
-    + Leer el archivo
-    + Calcular el hash SHA-256
+    + Lea el archivo.
+    + Calcule el hash SHA-256.
 
 ******
 
